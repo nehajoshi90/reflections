@@ -35,3 +35,7 @@ understand how merging takes place
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+pros: automatic merge: it takes a lot of burden by merging the entire commit with another commit whereas in manual
+mwerging we ensure that everything merged is correct as we manually check to see the merged files
+cons: automatic merge: some files can be wrongly merged and this will bring bugs whereas in manual merging its tedious
+to merge all the files manually
