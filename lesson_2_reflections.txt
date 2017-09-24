@@ -16,6 +16,11 @@ This will updated only the file of staging area to the repository
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branched would be helpful if we want are main branch to function as it is which is to be shown to people and side
+by side we want some experiemntal changes to be done of which we are not sure how successfull will it be or we want 
+some featue to be added to are project but we want it to be do it separatly and add only when it is successful, in 
+such case we can have branches for other feature and have are main branch working as it is on which we are fixing 
+bugs and adding desired feature which we can show to people
 
 How do the diagrams help you visualize the branch structure?
 
