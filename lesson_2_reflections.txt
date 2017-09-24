@@ -30,6 +30,8 @@ then checkout the branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging two branches will bring the changes of other branch into the checke out branch. Diagram help us to better 
+understand how merging takes place 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
