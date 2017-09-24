@@ -18,11 +18,15 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 Branched would be helpful if we want are main branch to function as it is which is to be shown to people and side
 by side we want some experiemntal changes to be done of which we are not sure how successfull will it be or we want 
-some featue to be added to are project but we want it to be do it separatly and add only when it is successful, in 
-such case we can have branches for other feature and have are main branch working as it is on which we are fixing 
-bugs and adding desired feature which we can show to people
+some featue to be added to are project but we want it to be do it separatly and add only when it is successful. 
+These are the features we fully expect to break and are not quality prduction work yet. In such case we can have 
+branches for other feature and have main branch that will always work, we can fix bugs on it or add desired feature 
+which we can show to people
 
 How do the diagrams help you visualize the branch structure?
+Diagram help to understand the concept of reachability. It helps to know which commits are reachable from which 
+branch and which commit will behave as it never existed if we make a commit on commit id other than the branch and
+then checkout the branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
