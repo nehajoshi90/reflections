@@ -11,6 +11,8 @@ will be bundled for the commit and added to updated in repository
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+As we are complete with on logical implementation we can move that file to the staging ares and then run commit.
+This will updated only the file of staging area to the repository
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
