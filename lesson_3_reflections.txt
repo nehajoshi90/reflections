@@ -14,3 +14,6 @@ It is beneficial as it help to know if we are ahead or behind of our local commi
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I could use dropbox or google docs but if multiple people will work on same file there will be fear of one's changes collaborating with other changes and then it can create bugs
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want to make changes in separate branch when i am working to something that is totally out of context to what i am presently doing, or when i want my master to work as it is fixing the bugs and side-by-side i want to work on a new feature that i want to show only when it is complete or works successfully. Otherwise working on one branch is very helpful
+
