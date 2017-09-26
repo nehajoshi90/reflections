@@ -4,3 +4,6 @@ This represent one complete implementation
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 We want to manually pull the changes because we will want to pull the code when when our local code is at some logical end so that pull does not creat unnecessary bugs or some unexpected behaviour.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branch is the label given to recent commit id on which we are working. Clone means to copy code with history from github to our local. Fork is like clone but work when we need to copy code with history from one github account to another
