@@ -9,4 +9,8 @@ Describe the differences between forks, clones, and branches. When would you use
 Branch is the label given to recent commit id on which we are working. Clone means to copy code with history from github to our local. Fork is like clone but work when we need to copy code with history from one github account to another
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-It is beneficial as it help to know if we are ahead or behind of our local commit and by how many commits. It also then helps to pull the commits from the remote, merge into our local committed file and then the sync commit to the github again 
+It is beneficial as it help to know if we are ahead or behind of our local commit and by how many commits. It also then helps to pull the commits from the remote, merge into our local committed file and then the sync commit to the github again
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I could use dropbox or google docs but if multiple people will work on same file there will be fear of one's changes collaborating with other changes and then it can create bugs
+
