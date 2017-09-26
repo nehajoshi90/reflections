@@ -1,3 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 When we have commits that complete the implementation of the full task that can be moved to production and can be shown to others.
 This represent one complete implementation
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+We want to manually pull the changes because we will want to pull the code when when our local code is at some logical end so that pull does not creat unnecessary bugs or some unexpected behaviour.
